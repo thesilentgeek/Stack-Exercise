@@ -1,2 +1,3 @@
-# Stack-Exercise
-Stack exercise 
+Sobande David
+2100521
+21CD008352
